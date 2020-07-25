@@ -1,0 +1,63 @@
+
+
+
+
+.body_wrapper {padding:0;margin:0;background:#fff;font-family:'Open Sans',sans-serif}
+.header {padding:30px 0 20px;margin-bottom:50px;background:#151820 url(../img/rausch.png) repeat;text-align:center;box-shadow:0px 5px 5px rgba(0,0,0,.5);}
+.title {padding:0;margin-bottom:50px;text-align:left;font-size:25px;line-height:30px;font-weight:800;color:#1c1c1c;font-family:'Fjalla One',sans-serif;}
+.main {padding:0}
+.gallery {margin-bottom:30px;text-align:center}
+.gallery img {max-width:100%}
+
+.description {}
+.description h2 {padding:0 0 10px;margin:0 0 15px;font-size:20px;line-height:1.5;font-weight:700;color:#000;position:relative;}
+.description h2:before {content:'';position:absolute;left:0;bottom:0;width:100px;height:5px;background:#7BE0D6;}
+.text_holder {padding:0 0 30px;font-size:14px;line-height:1.75;color:#121212}
+
+
+.footer {padding:50px 0 30px;margin-top:50px;background:#151820 url(../img/rausch.png) repeat;font-size:12px;line-height:15px;color:#fff;box-shadow:0px -5px 5px rgba(0,0,0,.5);}
+.footer a {color:inherit;}
+.footer a:hover {color:#7BE0D6;}
+.footer_copy {padding:10px 15px;text-align:left;}
+.footer_links {padding:10px 15px;text-align:right;}
+
+@media screen and (max-width:768px) {
+.title {margin-bottom:30px}
+.footer_copy, .footer_links {text-align:center;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
